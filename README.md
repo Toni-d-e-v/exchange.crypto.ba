@@ -12,7 +12,7 @@ HollaEx Kit provides simple (but powerful) CLI tool to help exchange operators s
 
 
 ```
-git clone https://github.com/bitholla/hollaex-kit.git
+git clone https://github.com/Toni-d-e-v/exchange.crypto.ba
 
 bash install.sh
 ```
